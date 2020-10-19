@@ -1,0 +1,90 @@
+{
+    "existing_location": [
+        "hyderabad",
+        "khammam",
+        "warangal",
+        "karimnagar",
+        "bhongir",
+        "nizamabad",
+        "jagital",
+        "armoor",
+        "odela"
+    ],
+    "existing_distance": [
+        "khammam-hyderabad",
+        "warangal-hyderabad",
+        "warangal-karimnagar",
+        "warangal-bhongir",
+        "warangal-nizamabad",
+        "hyderabad-karimnagar",
+        "hyderabad-bhongir",
+        "hyderabad-nizamabad",
+        "karimnagar-bhongir",
+        "karimnagar-nizamabad",
+        "bhongir-nizamabad",
+        "jagital-bhongir",
+        "bhongir-armoor",
+        "bhongir-odela",
+        "jagital-armoor",
+        "jagital-odela",
+        "armoor-odela"
+    ],
+    "location": {
+        "hyderabad": [
+            17.385,
+            78.4867
+        ],
+        "khammam": [
+            17.2473,
+            80.1514
+        ],
+        "warangal": [
+            17.9689,
+            79.5941
+        ],
+        "karimnagar": [
+            18.4386,
+            79.1288
+        ],
+        "bhongir": [
+            17.5078,
+            78.8802
+        ],
+        "nizamabad": [
+            18.6725,
+            78.0941
+        ],
+        "jagital": [
+            18.7895,
+            78.912
+        ],
+        "armoor": [
+            18.79,
+            78.2881
+        ],
+        "odela": [
+            18.4571,
+            79.4465
+        ]
+    },
+    "distance": {
+        "khammam-hyderabad": 177,
+        "hyderabad-khammam": 177,
+        "warangal-hyderabad": 134,
+        "warangal-karimnagar": 71,
+        "warangal-bhongir": 91,
+        "warangal-nizamabad": 176,
+        "hyderabad-karimnagar": 135,
+        "hyderabad-bhongir": 43,
+        "hyderabad-nizamabad": 148,
+        "karimnagar-bhongir": 106,
+        "karimnagar-nizamabad": 112,
+        "bhongir-nizamabad": 153,
+        "jagital-bhongir": 141,
+        "bhongir-armoor": 155,
+        "bhongir-odela": 120,
+        "jagital-armoor": 65,
+        "jagital-odela": 67,
+        "armoor-odela": 127
+    }
+}
